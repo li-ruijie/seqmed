@@ -33,6 +33,8 @@ Its core uses are:
 2. Conduct sensitivity analysis to assess the robustness of the causal effect estimate to `M-Y` confounding.
 3. Draw graphs to visualise the results of the causal mediation analysis and the sensitivity analysis.
 
+# References
+
 1. Li R. Causal inference in process evaluation: Development of statistical methods for causal inference in process evaluation of mental health related trials [Internet] [Doctor of Philosophy]. [London, United Kingdom]: King’s College London; 2022 [cited 2023 Feb 1]. Available from: https://kclpure.kcl.ac.uk/portal/en/theses/causal-inference-in-process-evaluation(4c4eaaa8-beee-4f24-9d03-8c29f2b83fce).html
 
 # To-do
