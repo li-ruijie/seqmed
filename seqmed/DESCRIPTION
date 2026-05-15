@@ -1,0 +1,29 @@
+Package: seqmed
+Title: Sequential Mediation Analysis
+Version: 0.1.0
+Authors@R: person("Ruijie", "Li", role = c("aut", "cre"),
+                  email = "ruijie@leefy.net")
+Description: Causal mediation analysis for sequential mediators using
+    simulation-based and model-based approaches. Decomposes total effects
+    into direct and indirect effects through one or more mediators.
+    Provides bootstrap confidence intervals for model-based estimates and
+    simulation-based inference with sensitivity analysis for unmeasured
+    confounding.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends:
+    R (>= 4.1.0)
+Imports:
+    methods,
+    mvtnorm,
+    parallel,
+    pbapply,
+    stats,
+    utils
+Suggests:
+    MASS,
+    MplusAutomation,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
