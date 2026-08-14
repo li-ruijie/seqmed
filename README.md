@@ -62,4 +62,4 @@ R 4.1.0 or later.
 
 ## Licence
 
-MIT. See `seqmed/LICENSE`.
+AGPL-3.0-or-later. See [LICENSE](LICENSE).
